@@ -14,7 +14,7 @@ The Travel Assistant uses CrewAI, a framework for creating AI agents that collab
 ## Project Structure
 
 - **app.py**: Main application interface, capturing user inputs through a streamlined UI and displaying the generated travel itinerary.
-- **travel_assistant_crew.py**: Contains the CrewAI setup, where specialized agents are defined for tasks like itinerary planning, weather forecasting, and logistics management.
+- **travel_assistant_crew.py**: Contains the CrewAI setup, where specialized agents are defined for tasks like itinerary planning, weather forecasting, and logistics management. Note - please add your own OPENAI api key and serper api key. 
 
 ## Technologies Used
 
