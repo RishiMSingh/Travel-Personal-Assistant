@@ -22,4 +22,5 @@ The Travel Assistant uses CrewAI, a framework for creating AI agents that collab
 - **CrewAI**: Framework used for building and managing collaborative AI agents, allowing complex, multi-agent interactions for itinerary generation.
 - **Streamlit** (optional): For deploying the application with a user-friendly web interface.
 
+![Travel Assistant Screenshot](images/screenshot.png)
 
